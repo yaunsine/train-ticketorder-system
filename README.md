@@ -3,7 +3,7 @@
 
 ![author:yaunsine](https://img.shields.io/badge/author-yaunsine-blue)
 ![language:c](https://img.shields.io/badge/language-c-orange)
-![license:apache](https://img.shields.io/badge/license-apache-red)
+![license:apache2.0](https://img.shields.io/badge/license-apache2.0-red)
 
 ### 介绍
 
