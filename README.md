@@ -12,6 +12,4 @@
 
 ![主图](https://github.com/yaunsine/train-ticketorder-system/blob/master/images/main.png?raw=true)
 
-- 
-  
-  ![](https://github.com/yaunsine/train-ticketorder-system/blob/master/images/query.png?raw=true)
+![](https://github.com/yaunsine/train-ticketorder-system/blob/master/images/query.png?raw=true)
