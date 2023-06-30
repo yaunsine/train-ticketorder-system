@@ -1,9 +1,11 @@
+/*
+	@author: yaunsine
+	@date: 2018-12-07
+*/
 #ifndef TRAIN_H
 #define TRAIN_H
 #define STR_LEN  30
 #define MAX 50
-
-
 
 typedef struct train {
 	int stationId; //³µÕ¾ºÅ

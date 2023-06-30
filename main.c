@@ -1,3 +1,7 @@
+/*
+	@author: yaunsine
+	@date: 2018-12-07
+*/
 #define _CRT_SECURE_NO_WARNINGS 1
 #include"stdio.h"
 #include"conio.h"
