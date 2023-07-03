@@ -1,7 +1,7 @@
 # Train-TicketOrder-System
 [[⬇️点击下载.exe文件](https://github.com/yaunsine/train-ticketorder-system/releases/download/v1.0.1-beta/trainOrderSys-v1.0.1-beta.exe) | [⬇️点击下载train数据文件](https://github.com/yaunsine/train-ticketorder-system/releases/download/v1.0.1-beta/train)]
 
-<div align="center">[[下载.exe文件](https://github.com/yaunsine/train-ticketorder-system/releases/download/v1.0.1-beta/trainOrderSys-v1.0.1-beta.exe)|[下载train数据文件](https://github.com/yaunsine/train-ticketorder-system/releases/download/v1.0.1-beta/train)]</div>
+[[下载.exe文件](https://github.com/yaunsine/train-ticketorder-system/releases/download/v1.0.1-beta/trainOrderSys-v1.0.1-beta.exe)|[下载train数据文件](https://github.com/yaunsine/train-ticketorder-system/releases/download/v1.0.1-beta/train)]
 
 ![author:yaunsine](https://img.shields.io/badge/author-yaunsine-blue)
 ![language:c](https://img.shields.io/badge/language-c-orange)
