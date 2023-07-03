@@ -14,7 +14,7 @@
 
 
 ### 页面展示
-=======
+
 ### 2克隆&下载源码
 [[⬇️下载最新源代码-dev](https://github.com/yaunsine/train-ticketorder-system/archive/refs/heads/master.zip) | 
 [⬇️下载稳定版源代码-beta](https://github.com/yaunsine/train-ticketorder-system/archive/refs/tags/v1.0.1-beta.zip)]
