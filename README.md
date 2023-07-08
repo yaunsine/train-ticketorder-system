@@ -12,9 +12,6 @@
 [🅱️csdn原链接](https://blog.csdn.net/weixin_43792401/article/details/88602327)：2018年作品，基于C语言的火车订票系统，@yaunsine版权所有
 
 
-
-### 页面展示
-
 ### 2克隆&下载源码
 [[⬇️下载最新源代码-dev](https://github.com/yaunsine/train-ticketorder-system/archive/refs/heads/master.zip) | 
 [⬇️下载稳定版源代码-beta](https://github.com/yaunsine/train-ticketorder-system/archive/refs/tags/v1.0.1-beta.zip)]
